@@ -9,6 +9,8 @@
  orders. Used transaction management to ensure data consistency (e.g., deducting stock
  after purchase). Implemented error handling to provide clear messages (e.g., "Book not
  available").
+   
+    
     Key Features & My Contributions
       1. Secure User Authentication
  Created a login and registration system with JWT (JSON Web Token) authentication to ensure
@@ -18,7 +20,7 @@
    2. RESTful APIs for Bookstore Operations
  Built APIs to:
  Search books by title, author, or category.
- Apply filters (price range, ratings, genre) for better user experience.
+ Apply filters (price range, ratings, genre) for a better user experience.
  Add/remove books from the cart and calculate the total price.
  Proceed to checkout, leading to a dummy payment page 
      Database & Security
